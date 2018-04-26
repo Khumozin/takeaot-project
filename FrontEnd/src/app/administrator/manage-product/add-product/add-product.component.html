@@ -1,0 +1,72 @@
+<form class="col s12 white" #produtForm="ngForm" (ngSubmit)="onSubmit(produtForm)">
+  <input type="hidden" name="ProductID" #ProductID="ngModel" [(ngModel)]="productService.selectedProduct.ProductID">
+  <input type="hidden" name="SupplierID" [(ngModel)]="supplierID">
+  <div class="row">
+    <div class="input-field col s12">
+      <label>Product Name</label>
+      <input class="validate" type="text" name="ProductName" #ProductName="ngModel" [(ngModel)]="productService.selectedProduct.ProductName"
+        required placeholder="iPhone 8">
+      <label data-error="Required field!"></label>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s12">
+      <label>Product Description</label>
+      <input class="validate" type="text" name="ProductDescription" #ProductDescription="ngModel" [(ngModel)]="productService.selectedProduct.ProductDescription"
+        required placeholder="Product Description">
+      <label data-error="Required field!"></label>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s6">
+      <label>Product Category</label>
+      <input class="validate" type="text" name="CategoryName" #CategoryName="ngModel" [(ngModel)]="productService.selectedProduct.CategoryName"
+        required placeholder="Cellphone">
+      <label data-error="Invalid quantity!"></label>
+    </div>
+
+    <div class="input-field col s6">
+      <label>Product Price</label>
+      <input class="validate" type="text" name="ProductPrice" #ProductPrice="ngModel" [(ngModel)]="productService.selectedProduct.ProductPrice"
+        required placeholder="R0.00">
+      <label data-error="Invalid price!"></label>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="input-field col s6">
+      <label>Product Quantity</label>
+      <input disabled class="validate" type="number" name="ProductQuantity" #ProductQuantity="ngModel" [(ngModel)]="productService.selectedProduct.ProductQuantity"
+        required placeholder="0">
+      <label data-error="Invalid quantity!"></label>
+    </div>
+    <div class="input-field col s6">
+      <label>Minimum Quantity</label>
+      <input class="validate" type="number" name="MinimumQuantity" #MinimumQuantity="ngModel" [(ngModel)]="productService.selectedProduct.MinimumQuantity"
+        required placeholder="0">
+      <label data-error="Invalid quantity!"></label>
+    </div>
+  </div>
+
+  <div class="file-field input-field">
+    <div class="btn">
+      <span>Browse</span>
+      <input #file type="file" (change)="fileUpload(file)">
+    </div>
+    <div class="file-path-wrapper">
+      <input class="file-path validate" type="text">
+    </div>
+  </div>
+
+  <div class="row">
+    <input type="hidden" name="ProductImg" #ProductImg="ngModel" [(ngModel)]="productService.selectedProduct.ProductImg">
+  </div>
+
+  <div class="row">
+    <div class="input-field col s12">
+      <button [disabled]="!produtForm.valid" class="btn-large btn-submit" type="submit">Submit</button>
+    </div>
+  </div>
+</form>

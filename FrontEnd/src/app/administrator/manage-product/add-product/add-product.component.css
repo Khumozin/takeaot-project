@@ -1,0 +1,10 @@
+.btn, .btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #0B79BF;
+    text-align: center;
+    letter-spacing: .5px;
+    -webkit-transition: .2s ease-out;
+    transition: .2s ease-out;
+    cursor: pointer;
+}

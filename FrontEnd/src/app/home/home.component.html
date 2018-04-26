@@ -1,0 +1,59 @@
+<body>
+
+  <div class="slider">
+    <ul class="slides">
+      <li>
+        <img src="../../assets/slide/slide1.png">
+      </li>
+      <li>
+        <img src="../../assets/slide/slide2.png">
+      </li>
+      <li>
+        <img src="../../assets/slide/slide3.png">
+      </li>
+      <li>
+        <img src="../../assets/slide/slide4.jpg">
+      </li>
+    </ul>
+  </div>
+
+
+  <div class="row">
+
+    <div class="myCard col s3" *ngFor="let product of productService.productList">
+        <div class="card small">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" src="../assets/img/{{product.ProductImg}}">
+          </div>
+          <div class="card-content">
+            <span class="card-title activator grey-text text-darken-4">{{product.ProductName}}
+              <i class="material-icons right">more_vert</i>
+            </span>
+            <p>
+              <a>R {{product.ProductPrice}}</a>
+            </p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">{{product.ProductName}}
+              <i class="material-icons right">close</i>
+            </span>
+            <p>Description: {{product.ProductDescription}}</p>
+
+            <!-- Inputs to submit to form
+
+            <input type="hidden" name="productID" #proID="ngModel" [(ngModel)]="product.ProductID">
+            <input type="hidden" name="customerName" #custID="ngModel" [(ngModel)]="customerID">
+            <input type="hidden" name="productQuantity" #proQuantity="ngModel" [(ngModel)]="quantity">
+ -->
+            <button class="btn waves-effect waves-light" (click)="addCart(product)">Add to cart
+              <i class="material-icons right">shopping_cart</i>
+            </button>
+
+          </div>
+        </div>
+    </div>
+
+
+  </div>
+
+</body>

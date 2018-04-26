@@ -1,0 +1,64 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+    <div>
+      <h2>Update Address</h2>
+    </div>
+
+    <form #updateAddressForm="ngForm" (ngSubmit)="onSubmit(updateAddressForm)">
+      <input type="hidden" name="AddressID" [(ngModel)]="addressID">
+      <input type="hidden" name="CustomerID" [(ngModel)]="custID">
+    <div class="row">
+      <div class="input-field col s6">
+        <input type="text" name="RecipientName" [(ngModel)]="recipientName" 
+        required placeholder="Name of the person receiving the delivery">
+        <!--label>Recipient Name</label-->
+      </div>
+      <div class="input-field col s6">
+        <input type="text" name="ContactNumber" [(ngModel)]="contactNumber" 
+        required placeholder="Mobile number preffered">
+        <!--label>Delivery Contact Number</label-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input type="text" name="Complex" [(ngModel)]="complex"
+        required placeholder="E.g. Complex, building, floor, unit number">
+        <!--label>Complex/Building Details</label-->
+      </div>
+      <div class="input-field col s6">
+        <input type="text" name="StreetName" [(ngModel)]="streetName"
+        required placeholder="E.g. 22 Brooke Avenue">
+        <!--label>Street Address</label-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input type="text" name="Suburb" [(ngModel)]="suburb" 
+        required placeholder="Sandton">
+        <!--label>Suburb</label-->
+      </div>
+      <div class="input-field col s6">
+        <input type="text" name="City" [(ngModel)]="city" 
+        required placeholder="Johannesburg">
+        <!--label>City/Town</label-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s12">
+        <input type="text" name="PostalCode" [(ngModel)]="postalCode"
+        required placeholder="1234">
+        <!--label>Postal Code</label-->
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <button  class="btn-large btn-submit" id="btnUpdate" type="submit">Update</button>
+      </div>
+      <div class="input-field col s6">
+        <button  class="btn-large btn-submit" (click)="onDelete()">Delete</button>
+      </div>
+    </div>
+    </form>
+
+  </div>
+</div>

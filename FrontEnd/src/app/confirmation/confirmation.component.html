@@ -1,0 +1,64 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+      <h2>Confirm Order</h2>
+
+      <div>
+      <p><span>Delivery Details</span></p>
+      <p>{{ recipientName }} <br> {{complex}} <br> {{streetName}} <br> {{suburb}} <br> {{city}} <br> {{postalCode}}</p>
+    </div>
+    <p><span>Payment Method</span></p>
+    <p>{{ method }}</p>
+    <div>
+
+    </div>
+      <div>
+      <p><span>Choose Date of Delivery</span></p>
+      <body>
+        <input class="with-gap" name="dateOfDelivery" type="radio" id="sameDay" value="sameDay" checked>
+        <label for="sameDay">Same day delivery - {{ today }}</label>
+        <br>
+        <input class="with-gap" name="dateOfDelivery" type="radio" id="dayThree" value="dayThree">
+        <label for="dayThree">{{ threeDaysLater }}</label>
+        <br>
+        <input class="with-gap" name="dateOfDelivery" type="radio" id="dayFive" value="dayFive">
+        <label for="dayFive">{{ fiveDaysLater }}</label>
+        <br>
+        <input class="with-gap" name="dateOfDelivery" type="radio" id="daySeven" value="daySeven">
+        <label for="daySeven">{{ sevenDaysLater }}</label>
+      </body>
+    </div>
+      <div>
+      <p><span>Order Summary</span></p>
+      <div>
+        <table class="striped">
+          <thead>
+            <tr>
+                <th>Item Description</th>
+                <th>Quantity</th>
+                <th>Item Price</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let detail of cartDetailsService.orderList">
+              <td>{{detail.ProductName}}</td>
+              <td>{{detail.ProductQuantity}}</td>
+              <td>R {{detail.ProductPrice}}</td>
+            </tr>
+          </tbody>
+        </table>
+        
+          <p class="total">Total R {{ tP }}.00</p>
+        </div>
+      </div>
+
+        <div class="row">
+          <div class="input-field col s12">
+            <button id="btnConfirm" class="btn-large btn-submit" (click)="onClick()">Confirm</button>
+          </div>
+          <div class="input-field col s12">
+            <button disabled id="btnContinue" class="btn-large btn-submit" (click)="onContinue()">Continue</button>
+          </div>
+        </div>
+        
+  </div>
+</div>

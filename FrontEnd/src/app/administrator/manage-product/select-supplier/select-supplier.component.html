@@ -1,0 +1,27 @@
+<!--select materialize="material_select">
+  <option disabled>Select Company</option>
+  <option *ngFor="let company of companies">{{company.CompanyName}}</option>
+</select-->
+
+<!--a class='dropdown-trigger btn' data-target='allSuppliers'>Choose Company!</a>
+[ngModel]="selectedCompany" (ngModelChange)="onChangeObj($event)" name="sel1"
+ [ngValue]="company.SupplierID"
+<ul id="allSuppliers" class="dropdown-content">
+  <li *ngFor="let supplier of supplierService.supplierList">
+    <a>{{supplier.CompanyName}}</a>
+  </li>
+</ul-->
+
+
+<label>Choose Company Name</label>
+<ng2-dropdown>
+  <ng2-dropdown-button>
+    {{ chooseCompany }}
+  </ng2-dropdown-button>
+  <ng2-dropdown-menu>
+    <ng2-menu-item *ngFor="let company of companies" (click)="onClick(company)">
+      {{ company.CompanyName }}
+    </ng2-menu-item>
+    <div class='ng2-menu-divider'></div>
+  </ng2-dropdown-menu>
+</ng2-dropdown>

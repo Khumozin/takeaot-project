@@ -1,0 +1,51 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+    <div>
+      <h2>Delivery Details</h2>
+    </div>
+    <div>
+      <p><span>Delivery Date</span><i class="material-icons left">date_range</i></p>
+      <p class="details">{{deliveryDate}}</p>
+      <br>
+      <p><span>Delivery Address</span><i class="material-icons left">location_on</i></p>
+      <p class="details">{{ recipientName }}</p>
+      <p class="details">{{ complex }}</p> 
+      <p class="details">{{ streetName }}</p>
+      <p class="details">{{ suburb }}</p> 
+      <p class="details">{{ city }}</p>
+      <p class="details">{{ postalCode }}</p>
+      <br>
+      <p><span>Payment Method</span><i class="material-icons left">payment</i></p>
+      <p class="details">{{method}}</p>
+      <br>
+      <p><span>Order Summary</span><i class="material-icons left">shopping_basket</i></p>
+
+      <div>
+          <table class="striped">
+            <thead>
+              <tr>
+                  <th>Item Description</th>
+                  <th>Quantity</th>
+                  <th>Item Price</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let detail of orderItemDetailsService.oList">
+                <td>{{detail.ProductName}}</td>
+                <td>{{detail.ProductQuantity}}</td>
+                <td>R {{detail.ProductPrice}}</td>
+              </tr>
+            </tbody>
+          </table>
+          
+            <p class="total">Total R {{ tP }}.00</p>
+          </div>
+
+    </div>
+    <div class="row">
+      <div class="input-field col s12">
+        <button  class="btn-large btn-submit" (click)="onClick()">Continue Shopping</button>
+      </div>
+    </div>
+  </div>
+</div>

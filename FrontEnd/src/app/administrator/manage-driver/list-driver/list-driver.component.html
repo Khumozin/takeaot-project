@@ -1,0 +1,27 @@
+<table class="striped">
+  <thead>
+    <tr>
+        <th>First name</th>
+        <th>Last name</th>
+        <th>Email</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let driver of driverService.driverList">
+      <td>{{driver.FirstName}}</td>
+      <td>{{driver.LastName}}</td>
+      <td>{{driver.Email}}</td>
+      <td>
+        <a (click)="showForEdit(driver)">
+            <i class="material-icons right">mode_edit</i>
+        </a>
+      </td>
+      <td>
+          <a (click)="onDelete(driver.DriverID)">
+              <i class="material-icons right">delete</i>
+          </a>
+        </td>
+    </tr>
+  </tbody>
+</table>

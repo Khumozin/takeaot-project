@@ -1,0 +1,25 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+    <div>
+      <h2>Invoice Details</h2>
+    </div>
+
+<table class="striped">
+  <thead>
+    <tr>
+        <th>Order Number</th>
+        <th>Date</th>
+        <th>Total Price</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let order of orderService.invoice">
+      <td>{{order.OrderID}}</td>
+      <td>{{order.OrderDate}}</td>
+      <td>R {{order.TotalPrice}}.00</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>

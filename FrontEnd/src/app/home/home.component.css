@@ -1,0 +1,14 @@
+/** {
+    margin: 0;
+}*/
+
+body {
+    width: 90%;
+    margin: auto;
+}
+
+
+.myCard {
+    width: 22.5%;
+    margin: auto;
+}

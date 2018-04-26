@@ -1,0 +1,66 @@
+<body>
+
+<div>
+  <h2>View Orders</h2>
+</div>
+
+<div class="row">
+
+  <div class="myCard col s6" *ngFor="let order of orderService.orders">
+      <div class="card small">
+        <!--div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="../assets/img/{{product.ProductImg}}">
+        </div-->
+        <div class="card-content">
+          <form #orderItemForm="ngForm" (ngSubmit)="onSubmit(orderItemForm)">
+          <input type="hidden" name="OrderID" [(ngModel)]="order.OrderID">
+          <span class="card-title activator grey-text text-darken-4">Order Number: {{order.OrderID}}
+            <button class="btnC" type="submit"><i class="material-icons right">more_vert</i></button>
+          </span>
+          </form>
+          <p>
+            <a>Customer Number: {{order.CustomerID}}</a>
+          </p>
+          <p>
+            <a>Order Date: {{order.OrderDate}}</a>
+          </p>
+          <p>
+            <a>Delivery Date: {{order.DeliveryDate}}</a>
+          </p>
+          <p>
+              <a>Delivery Status: {{order.DeliveryStatus}}</a>
+            </p>
+        </div>
+        <div class="card-reveal">
+          <span class="card-title grey-text text-darken-4">Order Details
+            <i class="material-icons right">close</i>
+          </span>
+
+
+          <table class="striped">
+            <thead>
+              <tr>
+                  <th>Product Name</th>
+                  <th>Product Quantity</th>
+              </tr>
+            </thead>
+          
+            <tbody>
+              <tr *ngFor="let order of orderItemDetails">
+                <td>{{order.ProductName}}</td>
+                <td>{{order.ProductQuantity}}</td>
+              </tr>
+            </tbody>
+          </table>
+
+
+        </div>
+      </div>
+  </div>
+
+
+</div>
+
+
+  
+</body>

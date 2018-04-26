@@ -1,0 +1,151 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+    <div>
+      <h2>Checkout Details</h2>
+    </div>
+    <div class="divider"></div>
+    <div>
+      <h4><span>Delivery Address</span></h4>
+    </div>
+
+      <!-- -->
+
+      <ul class="collapsible">
+        <li>
+          <div class="collapsible-header"><i class="material-icons">place</i>Add Address</div>
+          <div class="collapsible-body">
+            
+            <span>
+              <form #addressForm="ngForm" (ngSubmit)="onSubmit(addressForm)">
+                  <input type="hidden" name="CustomerID" #CustomerID="ngModel" [(ngModel)]="customerID">
+                <div class="row">
+                  <div class="input-field col s6">
+                    <input type="text" name="RecipientName" #RecipientName="ngModel" [(ngModel)]="addressService.address.RecipientName" 
+                    required placeholder="Name of the person receiving the delivery">
+                    <label>Recipient Name</label>
+                  </div>
+                  <div class="input-field col s6">
+                    <input type="text" name="ContactNumber" #ContactNumber="ngModel" [(ngModel)]="addressService.address.ContactNumber" 
+                    required placeholder="Mobile number preffered">
+                    <label>Delivery Contact Number</label>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="input-field col s6">
+                    <input type="text" name="Complex" #Complex="ngModel" [(ngModel)]="addressService.address.Complex"
+                    required placeholder="E.g. Complex, building, floor, unit number">
+                    <label>Complex/Building Details</label>
+                  </div>
+                  <div class="input-field col s6">
+                    <input type="text" name="StreetName" #StreetName="ngModel" [(ngModel)]="addressService.address.StreetName"
+                    required placeholder="E.g. 22 Brooke Avenue">
+                    <label>Street Address</label>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="input-field col s6">
+                    <input type="text" name="Suburb" #Suburb="ngModel" [(ngModel)]="addressService.address.Suburb" 
+                    required placeholder="Sandton">
+                    <label>Suburb</label>
+                  </div>
+                  <div class="input-field col s6">
+                    <input type="text" name="City" #City="ngModel" [(ngModel)]="addressService.address.City" 
+                    required placeholder="Johannesburg">
+                    <label>City/Town</label>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <input type="text" name="PostalCode" #PostalCode="ngModel" [(ngModel)]="addressService.address.PostalCode"
+                     required placeholder="1234">
+                    <label>Postal Code</label>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <button  class="btn-large btn-submit" type="submit">Add Address</button>
+                  </div>
+                </div>
+              </form>
+            </span>
+
+          </div>
+        </li>
+      </ul>
+      <div *ngIf="isAddressAvailable">
+        <p> <b>{{ recipientName }}</b> ({{contactNumber}}) {{complex}}, {{streetName}}, {{suburb}}, {{city}}, {{postalCode}} 
+          <a (click)="showForEdit()">
+              <i class="material-icons right">mode_edit</i>
+          </a>
+        </p>
+        <br>
+      </div>
+
+      
+      <!-- -->
+      <div>
+        <h4><span>Payment Options</span></h4>
+      </div>
+
+      <body>
+        <br>   
+        <input class="with-gap" name="paymentType" type="radio" id="eftPayment" value="eftPayment" checked>
+        <label for="eftPayment">EFT</label>
+        <br>
+        <input class="with-gap" name="paymentType" type="radio" id="creditPayment" value="creditPayment">
+        <label for="creditPayment">Credit & Debit Card</label>
+      </body>
+
+
+      
+      <!-- -->
+      <br>
+      
+      <div>
+        <h4><span>Order Summary</span></h4>
+      </div>
+
+      <div>
+      <table class="striped">
+        <thead>
+          <tr>
+              <th>Item Description</th>
+              <th>Quantity</th>
+              <th>Item Price</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          <tr *ngFor="let detail of details">
+            <td>{{detail.ProductName}}</td>
+            <td>{{detail.ProductQuantity}}</td>
+            <td>R {{detail.ProductPrice}}</td>
+          </tr>
+        </tbody>
+      </table>
+      
+        <p class="total">Total R {{ tP }}.00</p>
+      </div>
+
+
+      <!--div class="row">
+        <div class="input-field col s12">
+          <button  class="btn-large btn-submit" (click)="onProceed()">Proceed</button>
+        </div>
+      </div-->
+
+      <form paymentForm="ngForm" (ngSubmit)="onPayment(paymentForm)">
+          <div class="row">
+            <div class="input-field col s6">
+                <input type="hidden" name="PayID" [(ngModel)]="payID" >
+            </div>
+          </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <button  class="btn-large btn-submit" type="submit">Proceed</button>
+          </div>
+        </div>
+      </form>
+
+  </div>
+</div>

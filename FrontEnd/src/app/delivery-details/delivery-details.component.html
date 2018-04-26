@@ -1,0 +1,41 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+      <h2>Delivery Address</h2>
+
+<div>
+  <p>{{ recipientName }} <br> {{complex}} <br> {{streetName}} <br> {{suburb}} <br> {{city}} <br> {{postalCode}}</p>
+</div>
+<div>
+    <h4><span>Delivery Status</span></h4>
+  </div>
+
+<body>
+    <br>   
+    <input class="with-gap" name="deliveryStatus" type="radio" id="notDelivered" value="notDelivered" checked>
+    <label for="notDelivered">Not Delivered</label>
+    <br>
+    <input class="with-gap" name="deliveryStatus" type="radio" id="delivered" value="delivered">
+    <label for="delivered">Delivered</label>
+</body>
+
+
+<form updateDeliveryStatus="ngForm" (ngSubmit)="onStatus(updateDeliveryStatus)">
+    <div class="row">
+      <div class="input-field col s6">
+          <input type="hidden" name="oID" [(ngModel)]="oID" >
+      </div>
+    </div>
+  <div class="row">
+    <div class="input-field col s6">
+      <button  class="btn-large btn-submit" id="btnUpdate" type="submit">Update Status</button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="input-field col s6">
+      <button  class="btn-large btn-submit" (click)="onClick()">View Deliveries</button>
+    </div>
+  </div>
+</form>
+
+</div>
+</div>

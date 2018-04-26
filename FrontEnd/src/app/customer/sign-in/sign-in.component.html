@@ -1,0 +1,26 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+    <h2>Existing User</h2>
+    <div class="card">
+      <form #loginForm="ngForm" class="col s12 white" (ngSubmit)="OnSubmit(Email.value, Password.value)">
+        <div class="row">
+          <div class="input-field col s12">
+            <input type="text" #Email ngModel name="Email" required>
+            <label>My email address:</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <input type="password" #Password ngModel name="Password" required>
+            <label>My password:</label>
+          </div>
+        </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <button [disabled]="!loginForm.valid" class="btn-large btn-submit" type="submit">Login</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

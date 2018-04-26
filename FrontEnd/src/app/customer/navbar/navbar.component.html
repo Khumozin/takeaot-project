@@ -1,0 +1,63 @@
+<header>
+  <div class="logo">
+    <a routerLink="/home">
+      <img src="../assets/img/logo.png">
+    </a>
+  </div>
+
+  
+    <ul id="myAccount" class="dropdown-content">
+      <!-- Customer Options-->
+      <li *ngIf="customer.customerType"><a routerLink="/invoice">Invoices</a></li>
+      <li *ngIf="customer.customerType"><a routerLink="/personal-details">Personal Details</a></li>
+
+      <!-- Admin Options-->
+      <li *ngIf="customer.adminType"><a routerLink="/manage-order">Orders</a></li>
+      <li *ngIf="customer.adminType" class="divider"></li>
+      <!--li *ngIf="customer.adminType"><a routerLink="/getschedule">Notifications</a></li-->
+      <li *ngIf="customer.adminType"><a routerLink="/manage-product">Products</a></li>
+      <li *ngIf="customer.adminType" class="divider"></li>
+      <li *ngIf="customer.adminType"><a routerLink="/manage-admin">Admin</a></li>
+      <li *ngIf="customer.adminType"><a routerLink="/manage-driver">Driver</a></li>
+      <li *ngIf="customer.adminType"><a routerLink="/manage-supplier">Supplier</a></li>
+
+      <!-- Driver Options-->
+      <li *ngIf="customer.driverType"><a routerLink="/driver">Orders</a></li>
+      <!-- Supplier Options-->
+      <li *ngIf="customer.supplierType"><a routerLink="/supplier">View Products</a></li>
+      <!--li *ngIf="customer.supplierType"><a routerLink="/schedule">Supply Products</a></li-->
+    </ul>
+
+  <nav>
+    <ul>
+      <!-- If the client is not logged in -->
+      <li class="cartBusket">
+        <a routerLink="/cart">
+          <i class="material-icons left">shopping_cart</i>
+          {{ tQ }}
+        </a>
+      </li>
+      <li>
+        <a *ngIf="!customer.isAuthenticated" routerLink="/sign-in">Login</a>
+      </li>
+      <li>
+        <a *ngIf="customer.customerType" routerLink="/personal-details"> Hi {{ firstname }}</a>
+      </li>
+      <!-- If the client is not logged in -->
+      <li>
+        <a *ngIf="!customer.isAuthenticated" routerLink="/sign-up">Register</a>
+      </li>
+      <li>
+          <a *ngIf="customer.isAuthenticated" (click)="logout()">Logout</a>
+        </li>
+      <li>
+        <a class="dropdown-button" data-activates="myAccount">My Account
+          <i class="material-icons right">arrow_drop_down</i>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
+</header>
+
+<router-outlet></router-outlet>

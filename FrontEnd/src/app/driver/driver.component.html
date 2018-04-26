@@ -1,0 +1,106 @@
+<!--body>
+
+    <div>
+      <h2>View Deliveries</h2>
+    </div>
+    
+    <div class="row">
+    
+      <div class="myCard col s6" *ngFor="let order of orderService.orders">
+          <div class="card small">
+            <!--div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="../assets/img/{{product.ProductImg}}">
+            </div-->
+            <!--div class="card-content">
+              <form #deliveryItemForm="ngForm" (ngSubmit)="onSubmit(deliveryItemForm)">
+              <input type="hidden" name="CustomerID" [(ngModel)]="order.CustomerID">
+              <span class="card-title activator grey-text text-darken-4">Order Number: {{order.OrderID}}
+                <button class="btnC" type="submit"><i class="material-icons right">more_vert</i></button>
+              </span>
+              </form>
+              <p>
+                <a>Customer Number: {{order.CustomerID}}</a>
+              </p>
+              <p>
+                <a>Order Date: {{order.OrderDate}}</a>
+              </p>
+              <p>
+                <a>Delivery Date: {{order.DeliveryDate}}</a>
+              </p>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Delivery Details
+                <i class="material-icons right">close</i>
+              </span>
+    
+    
+              <div>
+                <p>{{ recipientName }} <br> {{complex}} <br> {{streetName}} <br> {{suburb}} <br> {{city}} <br> {{postalCode}}</p>
+              </div>
+    
+    
+            </div>
+          </div>
+      </div>
+    
+    
+    </div>
+    
+    
+      
+    </body-->
+
+<div class="row">
+  <div class="col s8 offset-s2">
+    <h2>Deliveries</h2>
+
+    <div>
+      <p><span>Sort by delivery status:</span></p>
+    </div>
+    <body> 
+        <input class="with-gap" name="deliveryStatus" type="radio" id="notDelivered" value="notDelivered" checked>
+        <label for="notDelivered">Not Delivered</label>
+        <br>
+        <input class="with-gap" name="deliveryStatus" type="radio" id="delivered" value="delivered">
+        <label for="delivered">Delivered</label>
+        <br>
+    </body>
+    <!--button  class="btn-large btn-submit" (click)="onClick()">Sort</button-->
+    <div class="row">
+      <br>
+        <a class="btn" (click)="onClick()">Sort</a>
+    </div>
+    
+
+    <table class="striped">
+      <thead>
+        <tr>
+            <th>Order Number</th>
+            <th>Order Date</th>
+            <th>Delivery Date</th>
+        </tr>
+      </thead>
+    
+      <tbody>
+        <tr *ngFor="let order of orderService.orderStatus">
+          <td>{{order.OrderID}}</td>
+          <td>{{order.OrderDate}}</td>
+          <td>{{order.DeliveryDate}}</td>
+          <td>
+
+            <form #deliveryItemForm="ngForm" (ngSubmit)="onSubmit(deliveryItemForm)">
+                <input type="hidden" name="CustomerID" [(ngModel)]="order.CustomerID">
+                <input type="hidden" name="OrderID" [(ngModel)]="order.OrderID">
+                <button  class="btn-large btn-submit" type="submit">View Details</button>
+            </form>
+            
+            <!--a (click)="showForEdit(supplier)">
+                <i class="material-icons right">mode_edit</i>
+            </a-->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>

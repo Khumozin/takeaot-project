@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ef655f2ba5354fb3a5da11d21f082c9e" Name="Diagram1">
+        <EntityTypeShape EntityType="TakealotDBModel.Customer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="TakealotDBModel.Administrator" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="TakealotDBModel.Driver" Width="1.5" PointX="7.5" PointY="0.5" />
+        <EntityTypeShape EntityType="TakealotDBModel.Supplier" Width="1.5" PointX="7.375" PointY="2.75" />
+        <EntityTypeShape EntityType="TakealotDBModel.Cart" Width="1.5" PointX="0.5" PointY="7.25" />
+        <EntityTypeShape EntityType="TakealotDBModel.Product" Width="1.5" PointX="0.5" PointY="10.125" />
+        <AssociationConnector Association="TakealotDBModel.FK_Cart_Customer" ></AssociationConnector>
+        <AssociationConnector Association="TakealotDBModel.FK_Cart_Product" />
+        <EntityTypeShape EntityType="TakealotDBModel.Address" Width="1.5" PointX="5.375" PointY="0.625" />
+        <AssociationConnector Association="TakealotDBModel.FK_Address_Customer" />
+        <EntityTypeShape EntityType="TakealotDBModel.Payment" Width="1.5" PointX="3.375" PointY="3.875" />
+        <AssociationConnector Association="TakealotDBModel.FK_Payment_Customer" />
+        <EntityTypeShape EntityType="TakealotDBModel.Credit" Width="1.5" PointX="5.625" PointY="6.375" />
+        <EntityTypeShape EntityType="TakealotDBModel.Eft" Width="1.5" PointX="5.625" PointY="9.375" />
+        <AssociationConnector Association="TakealotDBModel.FK_Credit_Payment" />
+        <AssociationConnector Association="TakealotDBModel.FK_Eft_Payment" />
+        <EntityTypeShape EntityType="TakealotDBModel.Order" Width="1.5" PointX="3" PointY="7.25" />
+        <AssociationConnector Association="TakealotDBModel.FK_Order_Customer" />
+        <EntityTypeShape EntityType="TakealotDBModel.OrderItem" Width="1.5" PointX="8.25" PointY="6.125" />
+        <AssociationConnector Association="TakealotDBModel.FK_OrderItem_Order" />
+        <AssociationConnector Association="TakealotDBModel.FK_OrderItem_Product" />
+        <AssociationConnector Association="TakealotDBModel.FK_Product_Supplier" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

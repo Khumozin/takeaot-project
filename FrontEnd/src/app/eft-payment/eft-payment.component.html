@@ -1,0 +1,58 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+      <h2>EFT Payment</h2>
+
+    <div>
+      <p><span>Paying:</span> Takealot Online</p>
+      <p><span>Their Reference:</span> {{reference}}</p>
+      <p><span>Amount:</span> R {{ tP }}.00</p>
+    </div>
+
+    <br>
+
+    <div>
+        <p><span>Choose Bank Name</span></p>
+    </div>
+
+    <body> 
+      <input class="with-gap" name="bankName" type="radio" id="absa" value="absa" checked>
+      <label for="absa">ABSA</label>
+      <br>
+      <input class="with-gap" name="bankName" type="radio" id="capitec" value="capitec">
+      <label for="capitec">Capitec</label>
+      <br>
+      <input class="with-gap" name="bankName" type="radio" id="fnb" value="fnb">
+      <label for="fnb">FNB</label>
+      <br>
+      <input class="with-gap" name="bankName" type="radio" id="nedbank" value="nedbank">
+      <label for="nedbank">Nedbank</label>
+      <br>
+      <input class="with-gap" name="bankName" type="radio" id="standardBank" value="standardBank">
+      <label for="standardBank">Standard Bank</label>
+    </body>
+
+    <div>
+        <form class="col s12 white" #eftForm="ngForm" (ngSubmit)="onSubmit(eftForm)">
+            <input type="hidden" name="EftID" [(ngModel)]="eftID" >
+          <div class="row">
+              <div class="input-field col s6">
+                  <input type="text" #CardNumber name="CardNumber"  [(ngModel)]="cardNumber" required maxlength="11"
+                  placeholder="Card Number">
+                
+              </div>
+                <div class="input-field col s6">
+                  <input type="text" #BranchCode name="BranchCode" [(ngModel)]="branchCode" required maxlength="4"
+                  placeholder="Brach Code">
+                  
+                </div>
+            </div>
+
+            <div class="row">
+              <div class="input-field col s12">
+                <button [disabled]="!eftForm.valid" class="btn-large btn-submit" type="submit">Secure Payment</button>
+              </div>
+            </div>
+          </form>
+    </div>
+  </div>
+</div>

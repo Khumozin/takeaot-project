@@ -1,0 +1,25 @@
+<table class="striped">
+  <thead>
+    <tr>
+        <th>Company Name</th>
+        <th>Email</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr *ngFor="let supplier of supplierService.supplierList">
+      <td>{{supplier.CompanyName}}</td>
+      <td>{{supplier.Email}}</td>
+      <td>
+        <a (click)="showForEdit(supplier)">
+            <i class="material-icons right">mode_edit</i>
+        </a>
+      </td>
+      <td>
+          <a (click)="onDelete(supplier.SupplierID)">
+              <i class="material-icons right">delete</i>
+          </a>
+        </td>
+    </tr>
+  </tbody>
+</table>

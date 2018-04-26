@@ -1,0 +1,27 @@
+<table class="striped">
+    <thead>
+      <tr>
+          <th>First name</th>
+          <th>Last name</th>
+          <th>Email</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let admin of adminService.adminList">
+        <td>{{admin.FirstName}}</td>
+        <td>{{admin.LastName}}</td>
+        <td>{{admin.Email}}</td>
+        <td>
+          <a (click)="showForEdit(admin)">
+              <i class="material-icons right">mode_edit</i>
+          </a>
+        </td>
+        <td>
+            <a (click)="onDelete(admin.AdminID)">
+                <i class="material-icons right">delete</i>
+            </a>
+          </td>
+      </tr>
+    </tbody>
+  </table>

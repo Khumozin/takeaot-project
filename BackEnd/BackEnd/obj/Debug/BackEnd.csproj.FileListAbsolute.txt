@@ -1,0 +1,1347 @@
+c:\users\user\source\repos\BackEnd\BackEnd\bin\ApplicationInsights.config
+c:\users\user\source\repos\BackEnd\BackEnd\bin\BackEnd.dll.config
+c:\users\user\source\repos\BackEnd\BackEnd\bin\BackEnd.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\BackEnd.pdb
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\EntityFramework.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Http.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Razor.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\WebGrease.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\EntityFramework.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Http.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Razor.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\source\repos\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+c:\users\user\source\repos\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+c:\users\user\source\repos\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Cors.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+c:\users\user\source\repos\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+c:\users\user\source\repos\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Music\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Pictures\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot_26-03-2018\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Music\Takealot_\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Videos\Takealot\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Videos\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot 11-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot 12-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot 12-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot 12-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot 12-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Videos\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 13-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot 16-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot 16-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot 16-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot 16-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Music\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Pictures\Takealot 17-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Owin.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+D:\Takealot 24-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+D:\Takealot 24-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+D:\Takealot 24-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+D:\Takealot 24-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\ApplicationInsights.config
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\BackEnd.dll.config
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\BackEnd.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\BackEnd.pdb
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\EntityFramework.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Owin.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Cors.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Http.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\WebGrease.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\EntityFramework.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\EntityFramework.SqlServer.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.Web.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Cors.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\Newtonsoft.Json.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Helpers.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Http.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Http.Cors.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Mvc.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Razor.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\bin\System.Web.Optimization.xml
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\User\Pictures\Takealot 25-04-2018\BackEnd\BackEnd\obj\Debug\BackEnd.pdb

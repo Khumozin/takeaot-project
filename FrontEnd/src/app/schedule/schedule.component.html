@@ -1,0 +1,56 @@
+<div class="row">
+    <div class="col s8 offset-s2">
+        <h2>Schedule Products</h2>
+
+        <div>
+            <p><span>Choose category:</span></p>
+        </div>
+        <body> 
+        <input class="with-gap" name="category" type="radio" id="cellphones" value="Cellphones" checked>
+          <label for="cellphones">Cellphones</label>
+          <br>
+          <input class="with-gap" name="category" type="radio" id="computers" value="computers">
+          <label for="computers">Computers & Tablets</label>
+          <br>
+          <input class="with-gap" name="category" type="radio" id="tv" value="tv">
+          <label for="tv">TV, Audio & Video</label>
+          <br>
+          <input class="with-gap" name="category" type="radio" id="cameras" value="cameras">
+          <label for="cameras">Cameras</label>
+          <br>
+          <input class="with-gap" name="category" type="radio" id="gaming" value="gaming">
+          <label for="gaming">Gaming</label>
+          <br>
+        </body>
+  
+        <form #scheduleForm="ngForm" class="col s12 white" (ngSubmit)="onSubmit(scheduleForm)">
+          <div class="row">
+            <div class="input-field col s6">
+              <input type="text" #CompanyName ngModel name="CompanyName" required>
+              <label>Company Name</label>
+            </div>
+            <div class="input-field col s6">
+              <input type="text" #ProductName ngModel name="ProductName" required>
+              <label>Product Name</label>
+            </div>
+          </div>
+          <div class="row">
+              <div class="input-field col s6">
+                <input type="text" #ProductQuantity ngModel name="ProductQuantity" required>
+                <label>Product Quantity</label>
+              </div>
+              <div class="input-field col s6">
+                <input type="text" #SupplyDate ngModel name="SupplyDate" required>
+                <label>Supply Date</label>
+              </div>
+          </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <button [disabled]="!scheduleForm.valid" class="btn-large btn-submit" type="submit">Notify</button>
+          </div>
+        </div>
+      </form>
+    
+    
+    </div>
+</div>

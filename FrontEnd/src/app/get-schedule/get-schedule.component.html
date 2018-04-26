@@ -1,0 +1,32 @@
+<div class="row">
+    <div class="col s8 offset-s2">
+        <h2>Notifications</h2>
+
+        <table class="striped">
+            <thead>
+              <tr>
+                  <th>Company Name</th>
+                  <th>Category</th>
+                  <th>Product Name</th>
+                  <th>Quantity</th>
+                  <th>Supply Date</th>
+              </tr>
+            </thead>
+          
+            <tbody>
+              <tr *ngFor="let schedule of scheduleService.scheduleList">
+                <td>{{schedule.CompanyName}}</td>
+                <td>{{schedule.Category}}</td>
+                <td>{{schedule.ProductName}}</td>
+                <td>{{schedule.ProductQuantity}}</td>
+                <td>{{schedule.SupplyDate}}</td>  
+                <td>
+                    <a (click)="onDelete(schedule.ScheduleID)">
+                        <i class="material-icons right">delete</i>
+                    </a>
+                </td>      
+              </tr>
+            </tbody>
+          </table>
+    </div>
+</div>

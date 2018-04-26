@@ -1,0 +1,33 @@
+<form class="col s12 white" #driverForm="ngForm" (ngSubmit)="onSubmit(driverForm)">
+  <input type="hidden" name="DriverID" #DriverID="ngModel" [(ngModel)]="driverService.selectedDriver.DriverID">  
+  <div class="row">
+      <div class="input-field col s6">
+        <input class="validate" type="text" name="FirstName" #FirstName="ngModel" [(ngModel)]="driverService.selectedDriver.FirstName"
+          required placeholder="FirstName">
+        <label data-error="Required field!"></label>
+      </div>
+      <div class="input-field col s6">
+        <input class="validate" type="text" name="LastName" #LastName="ngModel" [(ngModel)]="driverService.selectedDriver.LastName" required
+        placeholder="LastName">
+        <label data-error="Required field!"></label>
+      </div>
+    </div>
+    <div class="row">
+      <div class="input-field col s6">
+        <input class="validate" type="text" name="Email" #Email="ngModel" [(ngModel)]="driverService.selectedDriver.Email" required [pattern]="emailPattern" 
+        placeholder="Email">
+        <label data-error="Invalid email!"></label>
+      </div>
+      <div class="input-field col s6">
+        <input class="validate" type="password" name="Password" #Password="ngModel" [(ngModel)]="driverService.selectedDriver.Password"
+          required minlength="6" placeholder="Password">
+        <label [attr.data-error]="Password.errors!=null?(Password.errors.required?'Required field':'Minimum of 6 characters required'):''"></label>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="input-field col s12">
+        <button [disabled]="!driverForm.valid" class="btn-large btn-submit" type="submit">Submit</button>
+      </div>
+    </div>
+  </form>

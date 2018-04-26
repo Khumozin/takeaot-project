@@ -1,0 +1,65 @@
+<div class="row">
+  <div class="col s8 offset-s2">
+    <h2>Shopping Cart</h2>
+  </div>
+
+    <div class="col s3 offset-s2">
+        <div class="card horizontal">
+          <div class="card-stacked">
+            <div class="card-content">
+              <h3>Cart Summary</h3>
+              <p>Sub Total ({{ tQ }} items) R {{ tP }}.00 </p>
+              <p>Total R {{ tP }}.00</p>
+            </div>
+            <div class="card-action">
+              <button class="btn waves-effect waves-light" routerLink="/checkout">Proceed to Checkout</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+
+  <div class="col s8 offset-s2">
+    <table class="striped">
+      <thead>
+        <tr>
+            <th>Item Description</th>
+            <th>Unit Price</th>
+            <th>Quantity</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr *ngFor="let detail of details">
+          <td>
+              <img src="../assets/img/{{detail.ProductImg}}" width="40px" height="40px">
+            {{detail.ProductName}}
+          </td>
+          <td>R {{detail.ProductPrice}}</td>
+          <td>
+              <input type="text" #ProductQuantity="ngModel" name="ProductQuantity" [(ngModel)]="detail.ProductQuantity" 
+              maxlength="2">
+          </td>
+
+          <td>
+            <div class="popup">
+              <a (click)="onUpdate(detail)">
+                  <i class="material-icons right">update</i>
+              </a>
+              <span class="popuptext" id="myPopup">{{quantityFromProducts}} Products Are Available</span>
+            </div>
+          </td>
+          <td>
+              <a (click)="onDelete(detail.CartID)">
+                  <i class="material-icons right">delete</i>
+              </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+</div>
+        
+</div>

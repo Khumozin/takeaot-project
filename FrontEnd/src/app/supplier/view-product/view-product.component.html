@@ -1,0 +1,23 @@
+<h5>Showing all products by {{ cName }}</h5>
+<table class="striped">
+      <thead>
+        <tr>
+          <th>Product Name</th>
+          <th>Product Quantity</th>
+          <th>Product Status</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr *ngFor="let product of productService.productBySupplier">
+          <td>{{product.ProductName}}</td>
+          <td>{{product.ProductQuantity}}</td>
+          <td>{{calculateQuantity(product.ProductQuantity, product.MinimumQuantity)}}</td>
+          <td>
+            <a (click)="showForEdit(product)">
+                <i class="material-icons right">mode_edit</i>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>

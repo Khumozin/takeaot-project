@@ -1,0 +1,9 @@
+body {
+    width: 90%;
+    margin: auto;
+}
+
+.btnC {
+    background-color: #ffffff;
+    border: 2px solid #ffffff;
+}

@@ -1,0 +1,15 @@
+.total {
+    font-size: 24px;
+    font-weight: bold;
+    float: right;
+}
+
+span {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+}
